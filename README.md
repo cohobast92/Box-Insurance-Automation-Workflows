@@ -94,3 +94,5 @@ docker compose up -d
 ## License
 
 This project is licensed under the MIT License. See `LICENSE`.
+
+- Remove hardcoded credentials and move to env-based configuration
