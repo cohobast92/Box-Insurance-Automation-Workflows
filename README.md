@@ -100,3 +100,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Handle timeout gracefully and return a clear error to the caller
 
 - Handle edge case when the response body is empty but status is 200
+
+- Remove obsolete workaround now that the upstream bug is fixed
