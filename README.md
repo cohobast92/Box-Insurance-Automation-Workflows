@@ -96,3 +96,5 @@ docker compose up -d
 This project is licensed under the MIT License. See `LICENSE`.
 
 - Remove hardcoded credentials and move to env-based configuration
+
+- Handle timeout gracefully and return a clear error to the caller
