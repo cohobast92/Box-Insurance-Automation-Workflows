@@ -6,3 +6,5 @@
 # Update the API docs with the new query parameters and examples
 
 # Adjust timeout and retry settings based on production observations
+
+# Bump version to 1.2.0 and add changelog entry for the new features
