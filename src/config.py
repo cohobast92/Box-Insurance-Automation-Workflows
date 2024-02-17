@@ -8,3 +8,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Refactor the client to use async context manager for the session
