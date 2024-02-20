@@ -4,3 +4,5 @@
 # Bump the version and tag the release in the repo
 
 # Correct the default path used when no config file is specified
+
+# Simplify the validation flow by reusing the same schema

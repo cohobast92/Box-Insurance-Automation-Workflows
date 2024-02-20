@@ -9,3 +9,6 @@
 
 ## 2024-02-20
 - Implement request ID propagation for better tracing across services
+
+## 2024-02-20
+- Support config reload without restart via SIGHUP or file watch
