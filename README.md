@@ -102,3 +102,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Handle edge case when the response body is empty but status is 200
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Implement proper backoff with jitter for the retry logic
