@@ -6,3 +6,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Update the example config with all available options and comments
+
+# Simplify the validation flow by reusing the same schema

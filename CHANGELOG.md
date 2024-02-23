@@ -12,3 +12,6 @@
 
 ## 2024-02-20
 - Support config reload without restart via SIGHUP or file watch
+
+## 2024-02-23
+- Add proper error handling for invalid config so the app doesn't crash on startup
