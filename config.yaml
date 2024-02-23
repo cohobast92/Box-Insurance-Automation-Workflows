@@ -8,3 +8,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Remove the temporary debug endpoint before the release
