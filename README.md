@@ -104,3 +104,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Remove obsolete workaround now that the upstream bug is fixed
 
 - Implement proper backoff with jitter for the retry logic
+
+- Correct the formula used for calculating the backoff delay
