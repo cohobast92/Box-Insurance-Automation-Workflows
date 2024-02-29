@@ -12,3 +12,5 @@
 # Correct the default so it matches what the documentation says
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Handle the case when the external service returns an empty list

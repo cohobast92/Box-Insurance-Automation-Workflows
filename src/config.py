@@ -12,3 +12,5 @@
 # Refactor the client to use async context manager for the session
 
 # Improve test coverage for the helpers module to above 90%
+
+# Handle missing optional field in the response without raising

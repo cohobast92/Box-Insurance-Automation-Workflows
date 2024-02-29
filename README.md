@@ -106,3 +106,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Implement proper backoff with jitter for the retry logic
 
 - Correct the formula used for calculating the backoff delay
+
+- Bump the tool version and update the pre-commit hook config
