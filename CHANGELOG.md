@@ -15,3 +15,6 @@
 
 ## 2024-02-23
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+## 2024-02-29
+- Handle the redirect response and follow it to get the final resource
