@@ -10,3 +10,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Bump the Docker base image to get the latest security patches
+
+# Adjust the batch size to reduce memory usage on large inputs

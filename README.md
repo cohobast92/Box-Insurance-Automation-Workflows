@@ -108,3 +108,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Correct the formula used for calculating the backoff delay
 
 - Bump the tool version and update the pre-commit hook config
+
+- Bump version to 1.2.0 and add changelog entry for the new features
