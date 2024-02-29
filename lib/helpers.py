@@ -10,3 +10,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Correct the default so it matches what the documentation says
+
+# Clean up the deprecated alias and point callers to the new name
