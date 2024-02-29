@@ -18,3 +18,6 @@
 
 ## 2024-02-29
 - Handle the redirect response and follow it to get the final resource
+
+## 2024-02-29
+- Remove hardcoded credentials and move to env-based configuration
