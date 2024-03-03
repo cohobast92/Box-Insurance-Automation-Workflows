@@ -21,3 +21,6 @@
 
 ## 2024-02-29
 - Remove hardcoded credentials and move to env-based configuration
+
+## 2024-03-03
+- Update the API docs with the new query parameters and examples
