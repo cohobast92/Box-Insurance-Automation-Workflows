@@ -16,3 +16,5 @@
 # Handle the case when the external service returns an empty list
 
 # Implement a simple health check endpoint for the load balancer
+
+# Implement a simple health check endpoint for the load balancer
