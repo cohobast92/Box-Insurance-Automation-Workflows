@@ -10,3 +10,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Remove the temporary debug endpoint before the release
+
+# Fix the encoding issue when reading config files with non-ASCII
