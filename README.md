@@ -110,3 +110,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Bump the tool version and update the pre-commit hook config
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Refactor the main entry point to make it easier to test

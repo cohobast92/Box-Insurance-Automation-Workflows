@@ -14,3 +14,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Add a unit test for the edge case when the list is empty
