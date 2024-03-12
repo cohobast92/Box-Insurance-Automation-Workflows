@@ -18,3 +18,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Fix the ordering of middleware so auth runs before the handler

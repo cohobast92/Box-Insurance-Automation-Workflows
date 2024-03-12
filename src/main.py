@@ -8,3 +8,5 @@
 # Update the changelog with the fixes included in this release
 
 # Implement request ID propagation for better tracing across services
+
+# Improve the startup time by lazy-loading the heavy modules
