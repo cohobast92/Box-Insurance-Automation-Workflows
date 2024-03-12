@@ -20,3 +20,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Adjust buffer size for the stream reader to reduce memory usage
