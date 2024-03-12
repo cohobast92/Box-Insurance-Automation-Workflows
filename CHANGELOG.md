@@ -24,3 +24,6 @@
 
 ## 2024-03-03
 - Update the API docs with the new query parameters and examples
+
+## 2024-03-12
+- Update the example config with all available options and comments

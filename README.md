@@ -114,3 +114,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor the main entry point to make it easier to test
 
 - Clean up the TODO comments that were already addressed
+
+- Update the example config with all available options and comments
