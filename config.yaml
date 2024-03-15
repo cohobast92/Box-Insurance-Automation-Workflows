@@ -18,3 +18,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Remove deprecated CLI flag and update docs to use the new option

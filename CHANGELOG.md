@@ -27,3 +27,6 @@
 
 ## 2024-03-12
 - Update the example config with all available options and comments
+
+## 2024-03-15
+- Correct the default value for the feature flag in production
