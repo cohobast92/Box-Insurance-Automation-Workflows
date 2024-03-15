@@ -30,3 +30,6 @@
 
 ## 2024-03-15
 - Correct the default value for the feature flag in production
+
+## 2024-03-15
+- Adjust the pool size to match the actual concurrency we need
