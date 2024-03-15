@@ -22,3 +22,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Adjust the batch size to reduce memory usage on large inputs
