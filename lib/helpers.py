@@ -18,3 +18,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Implement a simple health check endpoint for the load balancer
+
+# Support custom headers in the client for API key or auth tokens
