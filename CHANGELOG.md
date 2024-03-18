@@ -33,3 +33,6 @@
 
 ## 2024-03-15
 - Adjust the pool size to match the actual concurrency we need
+
+## 2024-03-18
+- Clean up the commented-out code that was left from debugging
