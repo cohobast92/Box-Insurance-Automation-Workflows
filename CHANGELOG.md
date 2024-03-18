@@ -36,3 +36,6 @@
 
 ## 2024-03-18
 - Clean up the commented-out code that was left from debugging
+
+## 2024-03-18
+- Clean up unused imports and fix formatting to match the project style guide
