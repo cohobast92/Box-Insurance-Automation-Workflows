@@ -116,3 +116,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Clean up the TODO comments that were already addressed
 
 - Update the example config with all available options and comments
+
+- Refactor error handling to use a custom exception hierarchy
