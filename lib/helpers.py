@@ -26,3 +26,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

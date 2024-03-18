@@ -42,3 +42,6 @@
 
 ## 2024-03-18
 - Fix issue where empty input was not validated before passing to the parser
+
+## 2024-03-18
+- Add a comment explaining why we disable the linter on this line

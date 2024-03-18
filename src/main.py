@@ -14,3 +14,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Correct the default value for the feature flag in production
+
+# Implement a simple metrics endpoint for Prometheus scraping
