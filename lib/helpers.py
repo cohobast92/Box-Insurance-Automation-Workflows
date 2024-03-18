@@ -24,3 +24,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Update documentation to reflect the new API and usage examples
+
+# Support config reload without restart via SIGHUP or file watch

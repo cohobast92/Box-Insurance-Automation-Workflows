@@ -39,3 +39,6 @@
 
 ## 2024-03-18
 - Clean up unused imports and fix formatting to match the project style guide
+
+## 2024-03-18
+- Fix issue where empty input was not validated before passing to the parser
