@@ -26,3 +26,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Clean up debug print statements before the release
+
+# Add a smoke test that runs in CI to catch obvious regressions

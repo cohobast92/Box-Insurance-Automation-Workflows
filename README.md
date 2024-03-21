@@ -120,3 +120,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor error handling to use a custom exception hierarchy
 
 - Simplify the main loop by extracting request handling into a dedicated function
+
+- Fix issue where empty input was not validated before passing to the parser
