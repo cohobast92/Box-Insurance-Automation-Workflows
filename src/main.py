@@ -16,3 +16,5 @@
 # Correct the default value for the feature flag in production
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Support passing options through the config file as well as CLI

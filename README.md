@@ -118,3 +118,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Update the example config with all available options and comments
 
 - Refactor error handling to use a custom exception hierarchy
+
+- Simplify the main loop by extracting request handling into a dedicated function
