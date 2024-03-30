@@ -22,3 +22,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Handle edge case when the response body is empty but status is 200
+
+# Implement a small in-memory cache for the config to avoid re-reading

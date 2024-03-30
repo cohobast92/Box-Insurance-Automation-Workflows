@@ -45,3 +45,6 @@
 
 ## 2024-03-18
 - Add a comment explaining why we disable the linter on this line
+
+## 2024-03-30
+- Implement a simple metrics endpoint for Prometheus scraping

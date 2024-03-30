@@ -28,3 +28,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Fix the off-by-one error in the date range iterator
