@@ -14,3 +14,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Support environment-specific overrides via separate config files
+
+# Implement a small in-memory cache for the config to avoid re-reading
