@@ -126,3 +126,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor the helper to accept an optional callback for progress
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Refactor error handling to use a custom exception hierarchy

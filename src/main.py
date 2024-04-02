@@ -20,3 +20,5 @@
 # Support passing options through the config file as well as CLI
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Improve the setup script to check for required tools before running
