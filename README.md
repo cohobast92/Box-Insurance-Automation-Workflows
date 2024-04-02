@@ -122,3 +122,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Simplify the main loop by extracting request handling into a dedicated function
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Refactor the helper to accept an optional callback for progress

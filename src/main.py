@@ -18,3 +18,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Support passing options through the config file as well as CLI
+
+# Remove deprecated CLI flag and update docs to use the new option
