@@ -124,3 +124,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Fix issue where empty input was not validated before passing to the parser
 
 - Refactor the helper to accept an optional callback for progress
+
+- Bump version to 1.2.0 and add changelog entry for the new features
