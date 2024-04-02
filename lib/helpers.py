@@ -30,3 +30,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Fix the off-by-one error in the date range iterator
+
+# Support both relative and absolute paths for the config file
