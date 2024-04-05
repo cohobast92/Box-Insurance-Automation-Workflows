@@ -16,3 +16,5 @@
 # Support environment-specific overrides via separate config files
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Handle the partial write case and retry the remaining bytes
