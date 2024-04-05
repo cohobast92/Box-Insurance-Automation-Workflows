@@ -26,3 +26,5 @@
 # Clean up leftover code from the previous implementation
 
 # Clean up the commented-out code that was left from debugging
+
+# Improve the CLI help text so it's clear how to use each option
