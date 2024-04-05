@@ -28,3 +28,5 @@
 # Clean up debug print statements before the release
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Correct the formula used for calculating the backoff delay

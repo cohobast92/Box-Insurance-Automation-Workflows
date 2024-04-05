@@ -22,3 +22,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Improve the setup script to check for required tools before running
+
+# Clean up leftover code from the previous implementation

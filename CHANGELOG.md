@@ -48,3 +48,6 @@
 
 ## 2024-03-30
 - Implement a simple metrics endpoint for Prometheus scraping
+
+## 2024-04-05
+- Remove the unused parameter that was left from an old refactor
