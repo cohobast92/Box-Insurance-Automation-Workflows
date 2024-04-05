@@ -32,3 +32,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Support both relative and absolute paths for the config file
+
+# Correct the logic that determined whether to use cache or not
