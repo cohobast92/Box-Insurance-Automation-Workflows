@@ -30,3 +30,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Correct the formula used for calculating the backoff delay
+
+# Refactor the helper to accept an optional callback for progress

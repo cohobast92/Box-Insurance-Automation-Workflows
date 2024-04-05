@@ -24,3 +24,5 @@
 # Improve the setup script to check for required tools before running
 
 # Clean up leftover code from the previous implementation
+
+# Clean up the commented-out code that was left from debugging
