@@ -38,3 +38,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Update documentation to reflect the new API and usage examples
+
+# Improve performance by caching the result of the expensive lookup

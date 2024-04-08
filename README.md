@@ -128,3 +128,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Bump version to 1.2.0 and add changelog entry for the new features
 
 - Refactor error handling to use a custom exception hierarchy
+
+- Correct the default value for the feature flag in production

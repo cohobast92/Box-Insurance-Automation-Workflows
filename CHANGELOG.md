@@ -54,3 +54,6 @@
 
 ## 2024-04-08
 - Improve error message when the required env var is not set
+
+## 2024-04-08
+- Fix bug where the parser would hang on malformed input
