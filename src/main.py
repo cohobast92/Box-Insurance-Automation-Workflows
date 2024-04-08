@@ -28,3 +28,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Add a note in the README about the breaking change in 2.0
