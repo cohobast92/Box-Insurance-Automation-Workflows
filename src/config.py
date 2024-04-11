@@ -34,3 +34,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Add a note in the README about the breaking change in 2.0
+
+# Improve test coverage for the helpers module to above 90%

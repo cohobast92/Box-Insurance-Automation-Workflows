@@ -57,3 +57,6 @@
 
 ## 2024-04-08
 - Fix bug where the parser would hang on malformed input
+
+## 2024-04-11
+- Bump the version and tag the release in the repo
