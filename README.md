@@ -130,3 +130,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor error handling to use a custom exception hierarchy
 
 - Correct the default value for the feature flag in production
+
+- Adjust buffer size for the stream reader to reduce memory usage

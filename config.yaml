@@ -26,3 +26,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Clean up the TODO comments that were already addressed
+
+# Improve the setup script to check for required tools before running
