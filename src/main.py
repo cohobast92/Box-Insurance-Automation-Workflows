@@ -30,3 +30,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Add a note in the README about the breaking change in 2.0
+
+# Simplify the main loop by extracting request handling into a dedicated function
