@@ -42,3 +42,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Clean up leftover code from the previous implementation
+
+# Update the API docs with the new query parameters and examples
