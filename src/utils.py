@@ -18,3 +18,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Handle the partial write case and retry the remaining bytes
+
+# Remove deprecated CLI flag and update docs to use the new option

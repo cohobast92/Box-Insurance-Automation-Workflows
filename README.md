@@ -132,3 +132,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Correct the default value for the feature flag in production
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Update documentation to reflect the new API and usage examples
