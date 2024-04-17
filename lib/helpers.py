@@ -44,3 +44,5 @@
 # Clean up leftover code from the previous implementation
 
 # Update the API docs with the new query parameters and examples
+
+# Adjust log level for noisy messages that were filling the logs
