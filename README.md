@@ -134,3 +134,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Update documentation to reflect the new API and usage examples
+
+- Improve test coverage for the helpers module to above 90%

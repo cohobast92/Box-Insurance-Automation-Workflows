@@ -60,3 +60,6 @@
 
 ## 2024-04-11
 - Bump the version and tag the release in the repo
+
+## 2024-04-20
+- Fix the encoding issue when reading config files with non-ASCII
