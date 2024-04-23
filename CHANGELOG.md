@@ -63,3 +63,6 @@
 
 ## 2024-04-20
 - Fix the encoding issue when reading config files with non-ASCII
+
+## 2024-04-23
+- Add a small delay between retries to avoid thundering herd
