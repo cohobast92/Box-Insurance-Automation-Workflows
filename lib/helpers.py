@@ -46,3 +46,5 @@
 # Update the API docs with the new query parameters and examples
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Add a smoke test that runs in CI to catch obvious regressions
