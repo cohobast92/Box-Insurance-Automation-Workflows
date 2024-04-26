@@ -36,3 +36,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Fix the test that was flaky due to reliance on system time
+
+# Simplify the dependency injection so it's easier to mock in tests
