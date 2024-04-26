@@ -66,3 +66,6 @@
 
 ## 2024-04-23
 - Add a small delay between retries to avoid thundering herd
+
+## 2024-04-26
+- Refactor utils to use a single source of truth for default values
