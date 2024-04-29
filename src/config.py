@@ -38,3 +38,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Correct the formula used for calculating the backoff delay
+
+# Handle the case when the external service returns an empty list

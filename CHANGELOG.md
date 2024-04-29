@@ -69,3 +69,6 @@
 
 ## 2024-04-26
 - Refactor utils to use a single source of truth for default values
+
+## 2024-04-29
+- Adjust log level for noisy messages that were filling the logs
