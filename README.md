@@ -136,3 +136,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Update documentation to reflect the new API and usage examples
 
 - Improve test coverage for the helpers module to above 90%
+
+- Fix issue where empty input was not validated before passing to the parser
