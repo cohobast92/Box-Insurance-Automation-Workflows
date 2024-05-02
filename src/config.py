@@ -42,3 +42,5 @@
 # Handle the case when the external service returns an empty list
 
 # Improve test coverage for the helpers module to above 90%
+
+# Implement proper cleanup of resources when the process receives SIGTERM

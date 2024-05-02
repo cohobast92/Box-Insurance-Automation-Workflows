@@ -32,3 +32,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Correct the default path used when no config file is specified
+
+# Handle the partial write case and retry the remaining bytes
