@@ -50,3 +50,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Implement request ID propagation for better tracing across services
+
+# Refactor the parser to use a proper state machine instead of regex

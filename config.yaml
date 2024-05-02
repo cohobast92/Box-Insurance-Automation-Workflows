@@ -30,3 +30,5 @@
 # Improve the setup script to check for required tools before running
 
 # Handle timeout gracefully and return a clear error to the caller
+
+# Correct the default path used when no config file is specified
