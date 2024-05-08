@@ -44,3 +44,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Handle the case when the config file exists but is not readable
