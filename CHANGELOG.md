@@ -72,3 +72,6 @@
 
 ## 2024-04-29
 - Adjust log level for noisy messages that were filling the logs
+
+## 2024-05-08
+- Improve performance by caching the result of the expensive lookup

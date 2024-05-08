@@ -54,3 +54,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Refactor the client to use async context manager for the session

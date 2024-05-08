@@ -138,3 +138,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Improve test coverage for the helpers module to above 90%
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Refactor config loading into a separate module for better testability
