@@ -46,3 +46,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Handle the case when the config file exists but is not readable
+
+# Handle the case when the config file exists but is not readable
