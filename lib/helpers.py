@@ -56,3 +56,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Refactor the client to use async context manager for the session
+
+# Fix race condition in the cache that could return stale data under load
