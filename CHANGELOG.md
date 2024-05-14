@@ -75,3 +75,6 @@
 
 ## 2024-05-08
 - Improve performance by caching the result of the expensive lookup
+
+## 2024-05-14
+- Clean up leftover code from the previous implementation

@@ -50,3 +50,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Support both relative and absolute paths for the config file
