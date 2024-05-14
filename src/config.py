@@ -48,3 +48,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Handle the case when the config file exists but is not readable
+
+# Remove deprecated CLI flag and update docs to use the new option
