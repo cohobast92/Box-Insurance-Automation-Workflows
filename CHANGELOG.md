@@ -78,3 +78,6 @@
 
 ## 2024-05-14
 - Clean up leftover code from the previous implementation
+
+## 2024-05-17
+- Handle edge case when the response body is empty but status is 200

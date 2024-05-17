@@ -22,3 +22,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Remove obsolete workaround now that the upstream bug is fixed
