@@ -40,3 +40,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Simplify the CLI by merging the two similar subcommands into one
