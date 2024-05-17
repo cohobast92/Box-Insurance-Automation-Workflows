@@ -84,3 +84,6 @@
 
 ## 2024-05-17
 - Fix the memory leak in the long-running worker process
+
+## 2024-05-17
+- Bump version to 1.2.0 and add changelog entry for the new features

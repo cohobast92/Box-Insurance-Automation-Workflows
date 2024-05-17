@@ -52,3 +52,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Support both relative and absolute paths for the config file
+
+# Remove the unused parameter that was left from an old refactor
