@@ -142,3 +142,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor config loading into a separate module for better testability
 
 - Update the contributing guide with the new review process
+
+- Update the license file and add the new third-party notices
