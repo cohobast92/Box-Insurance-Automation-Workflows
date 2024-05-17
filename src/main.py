@@ -42,3 +42,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Adjust the batch size to reduce memory usage on large inputs

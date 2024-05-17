@@ -81,3 +81,6 @@
 
 ## 2024-05-17
 - Handle edge case when the response body is empty but status is 200
+
+## 2024-05-17
+- Fix the memory leak in the long-running worker process
