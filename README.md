@@ -144,3 +144,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Update the contributing guide with the new review process
 
 - Update the license file and add the new third-party notices
+
+- Refactor utils to use a single source of truth for default values

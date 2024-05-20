@@ -44,3 +44,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Improve the startup time by lazy-loading the heavy modules
