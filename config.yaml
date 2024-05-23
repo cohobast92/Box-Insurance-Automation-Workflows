@@ -38,3 +38,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Handle missing optional field in the response without raising
