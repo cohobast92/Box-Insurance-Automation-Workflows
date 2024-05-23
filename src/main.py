@@ -48,3 +48,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Improve error message when the required env var is not set
+
+# Correct the logic that determined whether to use cache or not

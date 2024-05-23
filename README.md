@@ -148,3 +148,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor utils to use a single source of truth for default values
 
 - Clean up the test fixtures and move shared data to a single file
+
+- Implement a simple metrics endpoint for Prometheus scraping
