@@ -54,3 +54,5 @@
 # Support both relative and absolute paths for the config file
 
 # Remove the unused parameter that was left from an old refactor
+
+# Refactor the parser to use a proper state machine instead of regex

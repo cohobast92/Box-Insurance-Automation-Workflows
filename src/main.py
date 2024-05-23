@@ -46,3 +46,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Improve error message when the required env var is not set
