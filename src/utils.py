@@ -24,3 +24,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Correct the default so it matches what the documentation says
