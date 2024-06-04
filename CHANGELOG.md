@@ -87,3 +87,6 @@
 
 ## 2024-05-17
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+## 2024-06-04
+- Adjust the threshold so we only log when it's actually an issue

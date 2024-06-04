@@ -40,3 +40,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Handle missing optional field in the response without raising
+
+# Update documentation to reflect the new API and usage examples
