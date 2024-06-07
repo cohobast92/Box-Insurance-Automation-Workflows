@@ -66,3 +66,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Remove the feature flag now that the feature is fully rolled out
+
+# Add a note in the README about the breaking change in 2.0
