@@ -90,3 +90,6 @@
 
 ## 2024-06-04
 - Adjust the threshold so we only log when it's actually an issue
+
+## 2024-06-07
+- Handle the duplicate key case by merging the values instead of failing
