@@ -58,3 +58,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Fix the memory leak in the long-running worker process
+
+# Simplify error messages so they are actionable for the end user

@@ -152,3 +152,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Clean up debug print statements before the release
+
+- Remove deprecated CLI flag and update docs to use the new option
