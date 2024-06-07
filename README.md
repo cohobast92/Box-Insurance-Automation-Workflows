@@ -150,3 +150,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Clean up the test fixtures and move shared data to a single file
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Clean up debug print statements before the release
