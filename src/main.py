@@ -50,3 +50,5 @@
 # Improve error message when the required env var is not set
 
 # Correct the logic that determined whether to use cache or not
+
+# Remove the unused parameter that was left from an old refactor
