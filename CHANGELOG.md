@@ -93,3 +93,6 @@
 
 ## 2024-06-07
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2024-06-10
+- Update the changelog with the fixes included in this release
