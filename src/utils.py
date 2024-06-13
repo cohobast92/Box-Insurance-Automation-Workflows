@@ -26,3 +26,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Correct the default so it matches what the documentation says
+
+# Update the example config with all available options and comments
