@@ -28,3 +28,5 @@
 # Correct the default so it matches what the documentation says
 
 # Update the example config with all available options and comments
+
+# Simplify the main loop by extracting request handling into a dedicated function
