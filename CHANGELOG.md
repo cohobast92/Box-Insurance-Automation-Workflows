@@ -96,3 +96,6 @@
 
 ## 2024-06-10
 - Update the changelog with the fixes included in this release
+
+## 2024-06-16
+- Refactor the helper to accept an optional callback for progress
