@@ -30,3 +30,5 @@
 # Update the example config with all available options and comments
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Correct the timestamp format to use ISO 8601 for consistency
