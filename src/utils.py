@@ -32,3 +32,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Correct the timestamp format to use ISO 8601 for consistency
+
+# Refactor utils to use a single source of truth for default values

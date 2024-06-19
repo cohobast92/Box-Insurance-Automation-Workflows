@@ -48,3 +48,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Improve the default config so it works out of the box for dev
+
+# Remove the unused parameter that was left from an old refactor
