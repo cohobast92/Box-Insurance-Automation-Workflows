@@ -56,3 +56,5 @@
 # Correct the default value for the feature flag in production
 
 # Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Simplify the auth flow by using a single token source
