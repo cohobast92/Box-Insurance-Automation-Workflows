@@ -156,3 +156,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Remove deprecated CLI flag and update docs to use the new option
 
 - Implement request ID propagation for better tracing across services
+
+- Clean up the TODO comments that were already addressed

@@ -62,3 +62,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Update the example config with all available options and comments
+
+# Clean up the commented-out code that was left from debugging
