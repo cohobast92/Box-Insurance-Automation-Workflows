@@ -64,3 +64,5 @@
 # Update the example config with all available options and comments
 
 # Clean up the commented-out code that was left from debugging
+
+# Fix issue where empty input was not validated before passing to the parser
