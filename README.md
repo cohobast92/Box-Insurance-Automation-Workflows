@@ -158,3 +158,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Implement request ID propagation for better tracing across services
 
 - Clean up the TODO comments that were already addressed
+
+- Remove the temporary debug endpoint before the release
