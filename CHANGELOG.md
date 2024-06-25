@@ -99,3 +99,6 @@
 
 ## 2024-06-16
 - Refactor the helper to accept an optional callback for progress
+
+## 2024-06-25
+- Support both relative and absolute paths for the config file

@@ -68,3 +68,5 @@
 # Remove the feature flag now that the feature is fully rolled out
 
 # Add a note in the README about the breaking change in 2.0
+
+# Refactor error handling to use a custom exception hierarchy
