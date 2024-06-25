@@ -102,3 +102,6 @@
 
 ## 2024-06-25
 - Support both relative and absolute paths for the config file
+
+## 2024-06-25
+- Add a note in the README about the breaking change in 2.0

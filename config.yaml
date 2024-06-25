@@ -52,3 +52,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Refactor utils to use a single source of truth for default values
+
+# Correct the formula used for calculating the backoff delay
