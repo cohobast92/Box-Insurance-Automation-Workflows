@@ -36,3 +36,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Simplify the config merge logic so overrides are predictable
+
+# Refactor error handling to use a custom exception hierarchy
