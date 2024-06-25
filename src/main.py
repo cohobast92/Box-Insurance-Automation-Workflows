@@ -60,3 +60,5 @@
 # Simplify the auth flow by using a single token source
 
 # Improve the error recovery when the database connection is lost
+
+# Bump the library version and pin the dependency in requirements
