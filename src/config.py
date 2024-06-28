@@ -70,3 +70,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Refactor config loading into a separate module for better testability
+
+# Correct the docstring to match the actual behavior of the function
