@@ -70,3 +70,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Fix the test that was flaky due to reliance on system time

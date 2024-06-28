@@ -68,3 +68,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Fix race condition in the cache that could return stale data under load
+
+# Refactor config loading into a separate module for better testability
