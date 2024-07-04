@@ -105,3 +105,6 @@
 
 ## 2024-06-25
 - Add a note in the README about the breaking change in 2.0
+
+## 2024-07-04
+- Remove hardcoded credentials and move to env-based configuration

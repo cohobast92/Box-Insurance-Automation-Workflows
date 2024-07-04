@@ -72,3 +72,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Correct the docstring to match the actual behavior of the function
+
+# Add proper error handling for invalid config so the app doesn't crash on startup
