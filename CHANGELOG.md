@@ -108,3 +108,6 @@
 
 ## 2024-07-04
 - Remove hardcoded credentials and move to env-based configuration
+
+## 2024-07-04
+- Correct the default path used when no config file is specified
