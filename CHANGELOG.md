@@ -111,3 +111,6 @@
 
 ## 2024-07-04
 - Correct the default path used when no config file is specified
+
+## 2024-07-04
+- Correct the default value for the feature flag in production
