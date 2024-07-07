@@ -160,3 +160,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Clean up the TODO comments that were already addressed
 
 - Remove the temporary debug endpoint before the release
+
+- Implement retry logic for the API client when the remote returns 5xx
