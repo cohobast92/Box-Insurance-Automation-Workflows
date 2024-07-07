@@ -72,3 +72,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Fix the test that was flaky due to reliance on system time
+
+# Correct the formula used for calculating the backoff delay

@@ -38,3 +38,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Implement proper cleanup of resources when the process receives SIGTERM

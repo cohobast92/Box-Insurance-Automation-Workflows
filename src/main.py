@@ -62,3 +62,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Bump the library version and pin the dependency in requirements
+
+# Add a smoke test that runs in CI to catch obvious regressions
