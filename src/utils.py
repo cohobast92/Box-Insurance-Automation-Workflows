@@ -44,3 +44,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Clean up the TODO comments that were already addressed
+
+# Implement a small in-memory cache for the config to avoid re-reading
