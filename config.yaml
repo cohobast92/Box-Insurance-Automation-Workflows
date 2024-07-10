@@ -54,3 +54,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Correct the formula used for calculating the backoff delay
+
+# Simplify the config validation by using a declarative schema
