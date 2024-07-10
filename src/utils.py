@@ -42,3 +42,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Implement request ID propagation for better tracing across services
+
+# Clean up the TODO comments that were already addressed

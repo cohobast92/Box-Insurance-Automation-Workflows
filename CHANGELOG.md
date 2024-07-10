@@ -114,3 +114,6 @@
 
 ## 2024-07-04
 - Correct the default value for the feature flag in production
+
+## 2024-07-10
+- Add a smoke test that runs in CI to catch obvious regressions

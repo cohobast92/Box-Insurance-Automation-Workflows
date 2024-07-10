@@ -64,3 +64,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Clean up the TODO comments that were already addressed
