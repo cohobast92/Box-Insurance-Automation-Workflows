@@ -162,3 +162,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Remove the temporary debug endpoint before the release
 
 - Implement retry logic for the API client when the remote returns 5xx
+
+- Improve the startup time by lazy-loading the heavy modules
