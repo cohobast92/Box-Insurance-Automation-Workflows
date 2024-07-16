@@ -68,3 +68,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Handle the redirect response and follow it to get the final resource
+
+# Improve the setup script to check for required tools before running
