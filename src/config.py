@@ -76,3 +76,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Bump the version and tag the release in the repo
+
+# Adjust the pool size to match the actual concurrency we need

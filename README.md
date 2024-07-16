@@ -166,3 +166,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Improve the startup time by lazy-loading the heavy modules
 
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+- Adjust default timeout value to prevent premature connection drops

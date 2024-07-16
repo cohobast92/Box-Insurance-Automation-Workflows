@@ -46,3 +46,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Bump dependency to get the security fix for the reported CVE
