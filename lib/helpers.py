@@ -74,3 +74,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Correct the formula used for calculating the backoff delay
+
+# Adjust the pool size to match the actual concurrency we need

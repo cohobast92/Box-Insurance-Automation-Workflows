@@ -168,3 +168,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Implement proper cleanup of resources when the process receives SIGTERM
 
 - Adjust default timeout value to prevent premature connection drops
+
+- Correct the default path used when no config file is specified
