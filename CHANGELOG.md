@@ -117,3 +117,6 @@
 
 ## 2024-07-10
 - Add a smoke test that runs in CI to catch obvious regressions
+
+## 2024-07-19
+- Support config reload without restart via SIGHUP or file watch

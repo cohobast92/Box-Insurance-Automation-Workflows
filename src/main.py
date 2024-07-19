@@ -70,3 +70,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Improve the setup script to check for required tools before running
+
+# Clean up the deprecated alias and point callers to the new name

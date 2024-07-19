@@ -76,3 +76,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Simplify the validation flow by reusing the same schema
