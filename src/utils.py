@@ -48,3 +48,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Implement a simple metrics endpoint for Prometheus scraping
