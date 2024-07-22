@@ -120,3 +120,6 @@
 
 ## 2024-07-19
 - Support config reload without restart via SIGHUP or file watch
+
+## 2024-07-22
+- Correct the formula used for calculating the backoff delay
