@@ -170,3 +170,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Adjust default timeout value to prevent premature connection drops
 
 - Correct the default path used when no config file is specified
+
+- Remove obsolete workaround now that the upstream bug is fixed

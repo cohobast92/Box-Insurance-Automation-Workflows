@@ -78,3 +78,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Simplify the validation flow by reusing the same schema
+
+# Improve test coverage for the helpers module to above 90%
