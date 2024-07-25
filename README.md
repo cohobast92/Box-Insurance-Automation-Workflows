@@ -172,3 +172,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Correct the default path used when no config file is specified
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Refactor the main entry point to make it easier to test
