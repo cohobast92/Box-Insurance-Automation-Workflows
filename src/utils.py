@@ -50,3 +50,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Bump the tool version and update the pre-commit hook config
