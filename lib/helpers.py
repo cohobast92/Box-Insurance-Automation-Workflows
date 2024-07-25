@@ -80,3 +80,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Improve test coverage for the helpers module to above 90%
+
+# Support both relative and absolute paths for the config file

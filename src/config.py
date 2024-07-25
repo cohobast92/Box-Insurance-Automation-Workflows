@@ -78,3 +78,5 @@
 # Bump the version and tag the release in the repo
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Simplify the validation flow by reusing the same schema
