@@ -123,3 +123,6 @@
 
 ## 2024-07-22
 - Correct the formula used for calculating the backoff delay
+
+## 2024-07-25
+- Handle timeout gracefully and return a clear error to the caller
