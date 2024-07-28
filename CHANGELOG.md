@@ -126,3 +126,6 @@
 
 ## 2024-07-25
 - Handle timeout gracefully and return a clear error to the caller
+
+## 2024-07-28
+- Simplify the main loop by extracting request handling into a dedicated function

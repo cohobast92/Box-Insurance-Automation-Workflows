@@ -84,3 +84,5 @@
 # Support both relative and absolute paths for the config file
 
 # Update the API docs with the new query parameters and examples
+
+# Bump the tool version and update the pre-commit hook config
