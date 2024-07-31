@@ -176,3 +176,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Refactor the main entry point to make it easier to test
 
 - Implement retry logic for the API client when the remote returns 5xx
+
+- Adjust timeout and retry settings based on production observations

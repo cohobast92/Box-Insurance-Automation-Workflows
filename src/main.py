@@ -74,3 +74,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Remove the unused parameter that was left from an old refactor
