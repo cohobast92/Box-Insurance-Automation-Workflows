@@ -135,3 +135,6 @@
 
 ## 2024-07-31
 - Handle the redirect response and follow it to get the final resource
+
+## 2024-07-31
+- Simplify the main loop by extracting request handling into a dedicated function
