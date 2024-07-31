@@ -52,3 +52,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Bump the tool version and update the pre-commit hook config
+
+# Implement proper cleanup of resources when the process receives SIGTERM

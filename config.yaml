@@ -60,3 +60,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Correct the docstring to match the actual behavior of the function
