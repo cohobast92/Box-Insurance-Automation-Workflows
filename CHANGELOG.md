@@ -132,3 +132,6 @@
 
 ## 2024-07-31
 - Fix the off-by-one error in the date range iterator
+
+## 2024-07-31
+- Handle the redirect response and follow it to get the final resource
