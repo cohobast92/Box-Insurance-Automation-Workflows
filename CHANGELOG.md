@@ -129,3 +129,6 @@
 
 ## 2024-07-28
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2024-07-31
+- Fix the off-by-one error in the date range iterator
