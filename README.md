@@ -180,3 +180,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Adjust timeout and retry settings based on production observations
 
 - Refactor the data layer to separate read and write paths
+
+- Handle the duplicate key case by merging the values instead of failing

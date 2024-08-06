@@ -64,3 +64,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Update the license file and add the new third-party notices
+
+# Simplify the config validation by using a declarative schema
