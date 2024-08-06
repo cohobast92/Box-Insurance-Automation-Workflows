@@ -80,3 +80,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Simplify the validation flow by reusing the same schema
+
+# Bump the library version and pin the dependency in requirements
