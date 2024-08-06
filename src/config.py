@@ -82,3 +82,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Bump the library version and pin the dependency in requirements
+
+# Fix bug where the parser would hang on malformed input

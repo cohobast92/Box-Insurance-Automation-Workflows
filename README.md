@@ -178,3 +178,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Implement retry logic for the API client when the remote returns 5xx
 
 - Adjust timeout and retry settings based on production observations
+
+- Refactor the data layer to separate read and write paths
