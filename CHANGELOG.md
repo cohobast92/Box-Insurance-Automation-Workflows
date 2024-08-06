@@ -138,3 +138,6 @@
 
 ## 2024-07-31
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2024-08-06
+- Update the example config with all available options and comments
