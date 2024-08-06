@@ -90,3 +90,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Implement retry logic for the API client when the remote returns 5xx
+
+# Bump the version and tag the release in the repo
