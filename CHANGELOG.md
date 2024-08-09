@@ -141,3 +141,6 @@
 
 ## 2024-08-06
 - Update the example config with all available options and comments
+
+## 2024-08-09
+- Refactor exports so the public API is clearer and easier to use

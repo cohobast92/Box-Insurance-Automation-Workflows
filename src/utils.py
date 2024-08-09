@@ -60,3 +60,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Correct the comparison that was using the wrong operator
+
+# Fix issue where empty input was not validated before passing to the parser
