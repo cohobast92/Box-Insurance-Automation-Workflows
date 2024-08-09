@@ -58,3 +58,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Bump the CI image to use the latest stable runner version
+
+# Correct the comparison that was using the wrong operator

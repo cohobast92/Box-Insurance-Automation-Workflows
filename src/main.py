@@ -76,3 +76,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Remove the unused parameter that was left from an old refactor
+
+# Support optional config file path via env var for easier deployment
