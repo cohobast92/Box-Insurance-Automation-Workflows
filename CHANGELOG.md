@@ -144,3 +144,6 @@
 
 ## 2024-08-09
 - Refactor exports so the public API is clearer and easier to use
+
+## 2024-08-09
+- Refactor the main entry point to make it easier to test
