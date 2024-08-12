@@ -184,3 +184,5 @@ This project is licensed under the MIT License. See `LICENSE`.
 - Handle the duplicate key case by merging the values instead of failing
 
 - Adjust the queue size to prevent drops under burst traffic
+
+- Implement basic rate limiting to avoid overwhelming the downstream service
