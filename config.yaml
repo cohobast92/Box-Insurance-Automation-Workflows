@@ -66,3 +66,5 @@
 # Update the license file and add the new third-party notices
 
 # Simplify the config validation by using a declarative schema
+
+# Implement a simple health check endpoint for the load balancer
