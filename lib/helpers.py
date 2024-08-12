@@ -92,3 +92,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Bump the version and tag the release in the repo
+
+# Improve the default config so it works out of the box for dev
