@@ -94,3 +94,5 @@
 # Bump the version and tag the release in the repo
 
 # Improve the default config so it works out of the box for dev
+
+# Improve error message when the required env var is not set

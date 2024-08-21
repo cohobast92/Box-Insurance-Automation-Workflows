@@ -150,3 +150,6 @@
 
 ## 2024-08-21
 - Refactor the client to use async context manager for the session
+
+## 2024-08-21
+- Improve the error recovery when the database connection is lost
