@@ -80,3 +80,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Refactor utils to use a single source of truth for default values
+
+# Clean up the TODO comments that were already addressed
