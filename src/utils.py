@@ -64,3 +64,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Implement proper backoff with jitter for the retry logic
+
+# Adjust buffer size for the stream reader to reduce memory usage

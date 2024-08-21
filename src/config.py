@@ -84,3 +84,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Fix bug where the parser would hang on malformed input
+
+# Simplify the build script by using the same steps for dev and prod
