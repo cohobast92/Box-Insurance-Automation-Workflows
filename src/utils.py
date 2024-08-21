@@ -68,3 +68,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Bump the CI image to use the latest stable runner version
+
+# Fix the ordering of middleware so auth runs before the handler

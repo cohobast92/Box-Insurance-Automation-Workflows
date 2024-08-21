@@ -147,3 +147,6 @@
 
 ## 2024-08-09
 - Refactor the main entry point to make it easier to test
+
+## 2024-08-21
+- Refactor the client to use async context manager for the session
