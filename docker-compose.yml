@@ -1,0 +1,27 @@
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n-box-workflows
+    restart: unless-stopped
+    ports:
+      - "${N8N_PORT:-5678}:5678"
+    env_file:
+      - .env
+    environment:
+      - N8N_HOST=${N8N_HOST:-localhost}
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=${N8N_PROTOCOL:-http}
+      - N8N_BASIC_AUTH_ACTIVE=${N8N_BASIC_AUTH_ACTIVE:-true}
+      - N8N_BASIC_AUTH_USER=${N8N_BASIC_AUTH_USER}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_BASIC_AUTH_PASSWORD}
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY}
+      - N8N_LOG_LEVEL=${N8N_LOG_LEVEL:-info}
+      - GENERIC_TIMEZONE=${GENERIC_TIMEZONE:-UTC}
+      - BOX_MCP_SSE_ENDPOINT=${BOX_MCP_SSE_ENDPOINT:-http://host.docker.internal:8001/sse}
+      - CLAIMS_SAMPLE_DATA_PATH=${CLAIMS_SAMPLE_DATA_PATH:-/files/sample_claims_data.json}
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./doc-gen-claim-generation/sample-data:/files:ro
+
+volumes:
+  n8n_data:
