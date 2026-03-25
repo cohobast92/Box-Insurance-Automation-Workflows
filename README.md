@@ -23,26 +23,6 @@ It includes end-to-end examples for document generation, metadata enrichment, cl
 - **Runtime:** Docker Compose with persistent n8n data volume
 - **Configuration:** `.env`-based settings for endpoint and runtime values
 
-### Architecture (Mermaid)
-
-```mermaid
-flowchart TB
-    subgraph n8n["n8n orchestration"]
-        W[Workflow JSON templates]
-    end
-    subgraph AI["AI layer"]
-        OAI[OpenAI nodes]
-    end
-    subgraph Box["Box MCP"]
-        MCP[SSE endpoint + Box tools]
-    end
-    IN[Structured claim / policy data] --> W
-    W --> OAI
-    OAI --> W
-    W --> MCP
-    MCP --> OUT[DocGen / metadata / reports]
-```
-
 ## Repository Structure
 
 - `doc-gen-claim-generation/`
